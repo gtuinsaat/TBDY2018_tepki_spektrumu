@@ -8,4 +8,4 @@ Gebze Teknik Üniversitesi
 İnşaat Mühendisliği Bölümü
 
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ahmetanildindar/AAD-TBDY2018-Spektrum/master)
+[![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/ahmetanildindar/libraries/AAD-TBDY2018-Spektra)
