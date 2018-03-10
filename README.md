@@ -6,3 +6,6 @@ AAD-TBDY2018-Spektrum
 Dr. Ahmet Anıl Dindar (adindar@gtu.edu.tr)
 Gebze Teknik Üniversitesi
 İnşaat Mühendisliği Bölümü
+
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ahmetanildindar/AAD-TBDY2018-Spektrum/master)
